@@ -18,7 +18,7 @@ h1 {
 }
 
 .container {
-    max-width: 400px;
+    max-width: 50%; /* Set the maximum width to 50% of the entire width */
     margin: 0 auto;
 }
 
